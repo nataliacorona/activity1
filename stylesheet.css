@@ -1,0 +1,26 @@
+body {background-image: url(back.jpeg);
+      color: antiquewhite;}
+
+h1   {text-align:center;
+      font-family: cursive;
+      font-size: 3em; 
+      background-color: #837569;
+      padding: 1%;}
+
+a    {text-decoration: none;
+      color: antiquewhite;}
+
+ul   {color:antiquewhite;
+      font-size: 1.2em;
+     font-family: fantasy;}
+
+h2   {text-align: center;
+      font-family: cursive;
+      font-size: 2.5em;}
+
+h3   {border: 1px #837569 solid;
+      background-color: #837569;
+      font-family: fantasy;}
+
+p {font-family: fantasy;
+    font-style: bold;}
